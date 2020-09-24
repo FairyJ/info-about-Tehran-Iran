@@ -1,0 +1,104 @@
+/* CSS files add styling rules to your content */
+html, body {
+	margin: 0;
+  background: #D7D6D4;
+}
+/* body {
+ 	font-family: Verdana, Geneva, sans-serif;
+ 	width: 70%;  
+	margin-right: auto;
+	margin-left: auto;
+  background: white;
+	padding: 2.5% 2.5% 0;
+} */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+
+
+}
+
+h1 {
+  text-align: center;
+/*   font: caption; */
+  font-style: italic;
+  color: #262672;
+  font-size: 3.8em;
+  text-decoration: underline;
+  text-decoration-color: #262672;
+}
+h3{
+  padding: 2.5% 2.5% 0;
+  font: caption;
+  font-style: italic;
+  color: "black";
+  font-size: 2.2em;
+  text-indent:8em;  
+}
+p {
+    text-indent: 2.5em;
+    font-size: 1.4em;
+    line-height: 1.5;
+}
+dd{
+    
+    font-size: 1.6em;
+    text-indent:11em;  
+    text-align:justify;
+    line-height: 2.5;
+}
+/* .centerImage
+{
+ text-align:center;
+ display:block;
+} */
+.blocktext {
+    margin-top: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 53em
+}
+.centerLocation{
+  display: block;
+  margin-left: 13em;
+  margin-right: auto
+  width: 50%
+}
+
+
+/* having text on the botom left of my imeges. */
+.botom_left {
+  position: static;
+}
+
+/* Two image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 35%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.crumbs  {
+    list-style-type: none;
+    padding-left: 0;
+  display: inline-block;
+}
+
+nav {
+  display: block;
+}
+
+footer {
+	border-top: 1px solid gray;
+	text-align: center;
+	font-size: .8em;
+	line-height: 4em;
+	margin-top: 2.5em;
+  
+}
