@@ -14,13 +14,13 @@ person, place to visit, etc. Be as creative as you wish. If you have other ideas
 can further discuss online.
 * Review lecture material and make proper use of the elements, properties, and roles covered.
 What I will be grading on:
-* ● Submission instructions followed (4 html and 1 css file submitted, with no contents
+* Submission instructions followed (4 html and 1 css file submitted, with no contents
 except plain-text HTML and CSS respectively)
-* ● HTML and CSS has proper formatting and comments where appropriate
-* ● Web page renders properly in Chrome
-* ● Web page contains all required content, visually organized and styled according to spec
-* ● CSS rules and HTML tags abide by specifications given in lectures
-* ● Look up the MDN reference site for 3 elements and 3 attributes not covered in class .
+* HTML and CSS has proper formatting and comments where appropriate
+* Web page renders properly in Chrome
+* Web page contains all required content, visually organized and styled according to spec
+* CSS rules and HTML tags abide by specifications given in lectures
+* Look up the MDN reference site for 3 elements and 3 attributes not covered in class .
 Use them on your website. Add comments describing what they are and how you are
 using them.
 * Cheating : This project will be an individual project. You can discuss this project with other
